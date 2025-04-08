@@ -1,0 +1,6 @@
+# filepath: /home/anubhav/Desktop/college_project/banking/banking_backend/requirements.txt
+fastapi==0.115.12
+uvicorn==0.34.0
+mysql-connector-python==9.2.0
+pydantic==2.11.2
+python-dotenv==1.1.0
